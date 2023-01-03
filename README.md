@@ -70,4 +70,4 @@
 </p>
 
 
-https://readme-typing-svg.herokuapp.com?font=Orbitron&color=%238038D5&size=35&duration=4000&center=true&vCenter=true&width=250&height=40&lines=OKAY+BYE+JISIN
+
